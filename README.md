@@ -1,5 +1,6 @@
 # Mozium
 This is an E2E test automation framework for web and mobile.
+[Mozium status] https://img.shields.io/badge/Mozium-Passed-blue.svg [Mozium version] https://img.shields.io/badge/Mozium-v--1.0.3-green.svg
 
 # Full Documentation
 See the [Wiki](https://github.com/Ben-MBA/Mozium/wiki) for documentation, instalation, examples and other information.
