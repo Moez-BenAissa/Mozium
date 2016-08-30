@@ -1,6 +1,9 @@
 # Mozium
 This is an E2E test automation framework for web and mobile.
-[Mozium status]: https://img.shields.io/badge/Mozium-Passed-blue.svg [Mozium version]: https://img.shields.io/badge/Mozium-v--1.0.3-green.svg
+[![Mozium status](https://img.shields.io/badge/Mozium-Passed-blue.svg)](https://img.shields.io/badge/Mozium-Passed-blue.svg)
+[![Mozium version](https://img.shields.io/badge/Mozium-v--1.0.3-green.svg)](https://img.shields.io/badge/Mozium-v--1.0.3-green.svg)
+
+
 
 # Full Documentation
 See the [Wiki](https://github.com/Ben-MBA/Mozium/wiki) for documentation, instalation, examples and other information.
@@ -39,11 +42,11 @@ Please see the example : [Tutorial] http://github.com/Ben-MBA/Mozium-example
 
 # Build
 ```
-$ git clone git@github.com:ben/selenium-grid-extensions.git
+$ git clone https://github.com/Ben-MBA/Mozium.git
 $ cd mozium/
 $ mvn install
 ```
 
-[license]:LICENSE
-[license img]:https://img.shields.io/badge/License-Apache%202-blue.svg
+[![Mozium Licence](https://img.shields.io/badge/Licence-Private-blue.svg)](https://img.shields.io/badge/Licence-Private-blue.svg)
+
 
