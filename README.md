@@ -1,5 +1,7 @@
 # Mozium
-This is an E2E test automation framework for web and mobile.
+Mozium is an E2E test automation framework for web and mobile. It is based on a set of design patterns and open source tools. 
+Untill now Mozium is not open source.
+
 [![Mozium status](https://img.shields.io/badge/Mozium-Passed-blue.svg)](https://img.shields.io/badge/Mozium-Passed-blue.svg)
 [![Mozium version](https://img.shields.io/badge/Mozium-v--1.0.3-green.svg)](https://img.shields.io/badge/Mozium-v--1.0.3-green.svg)
 
@@ -46,6 +48,11 @@ $ git clone https://github.com/Ben-MBA/Mozium.git
 $ cd mozium/
 $ mvn install
 ```
+
+# Contact
+moez.benaissa@gmail.com
+
+# Licence
 
 [![Mozium Licence](https://img.shields.io/badge/Licence-Private-blue.svg)](https://img.shields.io/badge/Licence-Private-blue.svg)
 
