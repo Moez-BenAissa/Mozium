@@ -12,7 +12,7 @@ See the [Wiki](https://github.com/Ben-MBA/Mozium/wiki) for documentation, instal
 
 # Communication
 
-- Twitter: [@Mozium](http://twitter.com/Mozium)
+- Twitter: [@Mozium](https://twitter.com/MoziumTestAuto)
 - Facebook: [Mozium](http://facebook.com/page/Mozium)
 - [GitHub Issues](https://github.com/Ben-MBA/Mozium/issues)
 - [Gitter Chat](https://gitter.im/Mozium/Lobby)
